@@ -18,6 +18,6 @@ Clone o repositório utilizando <code>git clone (link do repos)</code> ou baixe 
 <li><b>A aplicação será executada na porta <code>localhost:3333</code></b></li>
 
 <h4>No frontend:</h4> 
-<li>Abra o terminal no diretório da pasta backend e execute o comando <code>npm install</code></li>
-<li>Logo depois execute o comando <code>npm start</code> para executar a aplicação backend.</li>
+<li>Abra o terminal no diretório da pasta frontend e execute o comando <code>npm install</code></li>
+<li>Logo depois execute o comando <code>npm start</code> para executar a aplicação frontend.</li>
 <li><b>A aplicação será executada na porta <code>localhost:3000</code></b></li>
