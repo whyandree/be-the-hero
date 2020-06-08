@@ -1,5 +1,8 @@
-# Be The Hero
+<h1 align="center">
+  <img src="https://github.com/whyandree/be-the-hero/blob/master/frontend/src/assets/logo.svg" alt="Be the hero">
+</h1>
 Semana OmniStack 11.0
+<br>
 
 Aplicação consistem em apresentar aos usuários novas formas de contribuição com ONG's.
 Be The Hero nada mais é do que uma aplicação onde podemos tomar conhecimento de situações que eram desconhecidas ou menos visiveis, aproximando o contato entre ONG's e doadores.
